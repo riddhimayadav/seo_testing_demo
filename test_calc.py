@@ -1,6 +1,8 @@
 import unittest
 from calc import Calc
 
+#testing check_style.yaml
+
 class TestCalc(unittest.TestCase):
 
     def setUp(self):

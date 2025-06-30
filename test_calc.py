@@ -1,7 +1,7 @@
 import unittest
 from calc import Calc
 
-#testing check_style.yaml
+# Triggering style check workflow
 
 class TestCalc(unittest.TestCase):
 
